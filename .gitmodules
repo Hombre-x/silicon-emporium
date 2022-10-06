@@ -1,0 +1,3 @@
+[submodule "silicon-emporium-backend"]
+	path = silicon-emporium-backend
+	url = https://github.com/Hombre-x/silicon-emporium-backend.git
