@@ -1,3 +1,6 @@
 [submodule "silicon-emporium-backend"]
 	path = silicon-emporium-backend
 	url = https://github.com/Hombre-x/silicon-emporium-backend.git
+[submodule "Silicon-Emporium-Frontend"]
+	path = Silicon-Emporium-Frontend
+	url = https://github.com/julozanoa/Silicon-Emporium-Frontend.git
